@@ -1,5 +1,6 @@
 import './App.css'
 import About from './pages/About'
+import Projects from './pages/Projects'
 
 function App() {
   
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
      <About/> 
+     <Projects/> 
     </>
   )
 }
